@@ -1,0 +1,24 @@
+{
+  "name": "Mary Help of Christians Digital Campus Platform",
+  "short_name": "MHC Campus",
+  "description": "Digital Campus Platform for Mary Help of Christians Catholic High School, Liberia.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0c4a6e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}

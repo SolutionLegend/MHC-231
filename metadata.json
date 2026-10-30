@@ -1,0 +1,6 @@
+{
+  "name": "Mary Help of Christians Digital Campus Platform",
+  "description": "Complete Digital Campus Platform for Mary Help of Christians Catholic High School, Liberia, featuring traditional school website, 10 role-based dashboards, academic, financial, communication, and faith modules.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
